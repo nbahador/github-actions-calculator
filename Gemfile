@@ -2,5 +2,4 @@ source 'https://rubygems.org'
 
 gem 'jekyll', '~> 4.2'
 gem 'jekyll-seo-tag', '~> 2.7'
-
-# Add any other necessary gems for your Jekyll site here
+gem 'minima', '~> 2.5'  # Add this line to include the minima theme
