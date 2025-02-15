@@ -1,18 +1,22 @@
 # Simple Calculator
 
-This is a simple calculator built using HTML, CSS, and JavaScript. You can perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+This is a simple calculator built using **HTML**, **CSS**, and **JavaScript**. It supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-Try out the live version here: [Live Calculator](https://nbahador.github.io/github-actions-calculator/)
+You can try out the live version here: [Live Calculator](https://nbahador.github.io/github-actions-calculator/)
 
+## Features:
+- Addition, subtraction, multiplication, and division
+- Clean and responsive design
+- Easy to use and interactive interface
 
 ## Folder Structure:
 
-```perl
+```plaintext
 github-actions-calculator/
-├── _config.yml
-├── index.html
-├── style.css
-├── script.js
+├── _config.yml            # Configuration file for GitHub Pages (if used)
+├── index.html             # Main HTML file for the calculator
+├── style.css              # Stylesheet for the layout and design
+├── script.js              # JavaScript for the calculator's functionality
 └── .github/
     └── workflows/
-        └── deploy.yml
+        └── deploy.yml     # GitHub Actions workflow file for deployment
