@@ -2,7 +2,7 @@
 
 This is a simple calculator built using **HTML**, **CSS**, and **JavaScript**. It supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-You can try out the live version here: [Live Calculator](https://nbahador.github.io/github-actions-calculator/)
+
 
 ## Features:
 - Addition, subtraction, multiplication, and division
